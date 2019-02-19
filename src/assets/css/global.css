@@ -9,3 +9,11 @@ html,body,#app{
 i.iconfont{
   margin-right: 10px;
 }
+.el-table{
+  margin-top: 15px;
+  font-size:12px;
+}
+.el-pagination {
+  margin-top: 15px;
+  font-size: 12px
+}
